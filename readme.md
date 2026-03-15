@@ -1,7 +1,7 @@
 # lipu linku .dictionary converting doodad!!!
 
 <div align="center">
-  <img src="promo.png" alt="preview" width="800"/>
+  <img src="promo.png" alt="preview" width="400"/>
 </div>
 
 </div>
