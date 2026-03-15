@@ -17,5 +17,5 @@ if u hav any issues just dm me on discord `@communistkittycat`!!!!!
 
 - install da python packages: `pip3 install GitPython`
 - download and convert from linku stuff: `python3 ./convert.py`
-- build!: `make`
+- build: `make`
 - copy it: the .dictionary is in /lipu-linku-dict/objects/, so now start at step 4 of installing it! :3
