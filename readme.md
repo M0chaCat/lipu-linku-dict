@@ -1,5 +1,11 @@
 # lipu linku .dictionary converting doodad!!!
 
+<div align="center">
+  <img src="promo.png" alt="preview" width="800"/>
+</div>
+
+</div>
+
 if u hav any issues just dm me on discord `@communistkittycat`!!!!!
 
 ## how to install
