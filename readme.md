@@ -7,7 +7,7 @@ if u hav any issues just dm me on discord `@communistkittycat`!!!!!
 - go to [releases page](https://github.com/M0chaCat/lipu-linku-dict/releases/)
 - download `lipu-linku.dictionary.zip`
 - unzip it
-- copy the .dictionary file (might show as a folder!!) to `~Library/Dictionaries/` (the ~ means your user folder, like /Users/Mocha/)
+- copy the .dictionary file (might show as a folder!!) to `~/Library/Dictionaries/` (the ~ means your user folder, like /Users/Mocha/)
 - open the dictionary app
 - open its settings from the menu bar
 - scroll (or search) for the new one named `lipu linku` and enable it and move it to the tippy top!!
